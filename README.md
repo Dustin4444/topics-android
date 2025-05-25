@@ -1,9 +1,6 @@
 # Topics Taxonomy
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-Apache%202.0-blue)
-
-## Introduction
+## Overview
 
 This repository is meant to be a place to reference the current and past
 versions of the topics taxonomy for apps released as part of the Android Privacy
@@ -19,11 +16,7 @@ their version number appended to the end of the filename.
 - The [taxonomy is open source][1], and subject to change.
   Suggestions can be filed via the [feedback form][2].
 
-## Taxonomy Structure
-
-![Taxonomy Structure](https://example.com/taxonomy_structure.png)
-
-## Examples
+## Example Taxonomy Files
 
 ### Version 1
 
@@ -794,4 +787,8 @@ their version number appended to the end of the filename.
     </tr>
     <tr>
       <td>10101</td>
+      <td>/Beauty &amp; Fitness/Body Art</td>
+    </tr>
+    <tr>
+      <td>10102</td>
       <
